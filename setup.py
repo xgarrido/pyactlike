@@ -13,4 +13,5 @@ setup(
     packages=["pyactlike"],
     python_requires=">3",
     include_package_data=True,
+    install_requires=["cobaya>=3.0.4"],
 )
